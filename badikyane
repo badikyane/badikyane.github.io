@@ -1,3 +1,5 @@
 <ol>
     <li><a id="up" href="http://example.com">Ссылка на гланую страницу</a></li>
-    <li><a href="">Абсолютная ссылка на главную страницу сайта</a></li>
+    <li><a href="https://badikyan.github.io">Абсолютная ссылка на главную страницу сайта</a></li>
+    <li><a href="ftp://example.com">FTP ссылка без авторизции</a></li>
+    
