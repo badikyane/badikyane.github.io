@@ -5,3 +5,4 @@
     <li><a href="ftp://badikyane@example.com">FTP ссылка с авторизацией</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo">Ссылка на фрагмент сайта</a></li>
     <li><a href="">Ссылка на фрагмент текущей страницы</a></li>
+    </ol>
